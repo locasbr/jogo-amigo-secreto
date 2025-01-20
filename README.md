@@ -1,3 +1,4 @@
+Link no VERCEL: https://jogo-amigo-secreto.vercel.app/
 # Amigo Secreto
 
 Este projeto foi desenvolvido como parte de um desafio da Oracle em parceria com a Alura. O objetivo principal deste desafio é fortalecer habilidades em lógica de programação, criando uma aplicação simples de sorteio de amigo secreto.
